@@ -40,3 +40,4 @@ next-env.d.ts
 /posts.db
 
 .gitignore
+posts.db
